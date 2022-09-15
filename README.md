@@ -10,11 +10,14 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
+* Astor Franco de Sena Neto
+* Fabiana Santos Soares
+* Jussara Ribeiro de Souza
+* Krysthyan Moreira Florentino Toresani
+* Lívia Santos Morais
 * Paolla Alves Soares
-* Nome completo do aluno 4
-* Nome completo do aluno 5
+* Rafael Moreira Arantes de Castro
+* Sophia Thaís Gibim Coelho
 
 ## Orientador
 

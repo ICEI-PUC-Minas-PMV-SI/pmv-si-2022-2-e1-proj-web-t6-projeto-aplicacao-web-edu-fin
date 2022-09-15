@@ -13,8 +13,6 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 3- Nayara é uma mulher de 35 anos que se formou em biologia à 3 anos. Ela não conseguiu um emprego em sua área de atuação e não trabalha no momento pois está grávida de 8 meses. O financiamento da sua faculdade está começando a ser cobrado e ela vai precisar negociar a dívida. Depois que o seu filho nascer ela vai começar a trabalhar para pagar os fiadores do seu curso e ajudar a pagar as contas de casa, pois ela mora com sua mãe e sua avó e sustentar seu filho. O pai da criança pagará uma pensão que será suficiente para alimentação do bebê. A educação financeira ajudaria Nayara a poupar antes de sua colação de grau para pagar seus estudos e a apoiaria no futuro para conseguir uma vida mais estável, tranquila e sem dívidas, mas ela nunca teve uma referência de como ganhar e gastar sua renda.
 
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
-
 > **Links Úteis**:
 > - [Rock Content](https://rockcontent.com/blog/personas/)
 > - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)

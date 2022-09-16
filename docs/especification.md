@@ -33,7 +33,9 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
 
 Como João Paulo, eu quero aprender sobre educação financeira, para ter mais controle sobre minhas dívidas.
+
 Como Arthur, eu quero aprender sobre educação financeira, para saber como usar melhor o meu dinheiro.
+
 Como Nayara, eu preciso aprender sobre educação financeira, para ter mais possibilidades de crescimento econômico mesmo com uma renda pequena.
 
 > **Links Úteis**:

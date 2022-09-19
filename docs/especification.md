@@ -36,6 +36,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-004| Diagrama destacando qual deve ser a porcentagem de gastos mensais brutos e lazer de acordo com o salario recebido  | Média | 
 |RF-005| Cotação das principais moedas atualizadas  | Média | |
 |RF-006| Indicação de Canais sobre investimento | Média | |
+|RF-007| Possibilidade de criação de usuário com senha | Média| |
+|RF-008| Mecanismo de pesquisa por palavras chave | ALTA| |
 
 
 ### Requisitos não Funcionais
@@ -44,6 +46,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |-------|-------------------------|----|
 |RNF-001| O sistema estará disponivel apenas em endereço WEB | ALTA | 
 |RNF-002| Sistema online sem emissão de relatorios |  BAIXA | 
+|RNF-003| O sistema apresentará desingn responsivo | ALTA |
+|RNF-004| O sistema oferecerá interface gamificada | MÉDIA |
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 

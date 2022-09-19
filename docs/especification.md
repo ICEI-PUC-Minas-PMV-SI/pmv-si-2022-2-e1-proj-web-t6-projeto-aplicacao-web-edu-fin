@@ -30,8 +30,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade | Responsável |
 |------|-----------------------------------------|----| ----|
-|RF-001| Valor final ao pagar referente a um financiamento incluindo taxa de juros | ALTA |  | 
-|RF-002| LINKS com endero WEB sobre Educação Financeira   | ALTA | |
+|RF-001| Valor final ao pagar referente a um financiamento | ALTA |  | 
+|RF-002| LINKS com endereço WEB sobre Educação Financeira   | ALTA | |
 |RF-003| Função de quanto poupar mensalmente para juntar a quantia estipulada pelo usario no tempo desejado  | ALTA | |
 |RF-004| Diagrama destacando qual deve ser a porcentagem de gastos mensais brutos e lazer de acordo com o salario recebido  | Média | 
 |RF-005| Cotação das principais moedas atualizadas  | Média | |

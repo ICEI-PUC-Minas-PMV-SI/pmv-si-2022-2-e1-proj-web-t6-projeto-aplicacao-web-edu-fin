@@ -38,6 +38,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-006| Indicação de Canais sobre investimento | Média | |
 |RF-007| Possibilidade de criação de usuário com senha | Média| |
 |RF-008| Mecanismo de pesquisa por palavras chave | ALTA| |
+|RF-009| Fórum de dúvidas para usuários interagirem e se ajudarem | Média| |
+|RF-010| Dicionário com princiapais termos usados na educação financeira | Média| |
 
 
 ### Requisitos não Funcionais

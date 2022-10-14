@@ -15,6 +15,18 @@
 
 ## Wireframes
 
+## Artigos
+
+Ao entrar na página de "Artigos" o usuário terá acesso a variados botões, cada um com seu nome e imagem do artigo. Será possivel carregar mais artigos clicando no botão "carregar mais" e pesquisar temas na ferramenta de busca localizada no canto superior direito.
+
+![Artigos página](https://user-images.githubusercontent.com/112964187/195947386-c6a00079-8420-4b30-bf7b-8268058f52eb.jpg)
+
+
+Escolhendo e clicando em um artigo, o usuário será direcinado a pagina onde poderá ler todo conteúdo do artigo e ainda deixar e ler comentarios no final da página. Ainda nessa página conterá uma barra de navegação rápida com links de acesso ao forum, SPC/Serasa, entre outros.
+
+![dentro de um artigo](https://user-images.githubusercontent.com/112964187/195947487-82c16dba-c200-49f1-bd0f-bc97988bfb18.jpg)
+
+
 ![Exemplo de Wireframe](img/wireframe-example.png)
 
 São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.

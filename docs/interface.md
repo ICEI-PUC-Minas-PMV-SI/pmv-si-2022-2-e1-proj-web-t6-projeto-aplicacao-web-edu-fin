@@ -26,6 +26,14 @@ Escolhendo e clicando em um artigo, o usuário será direcinado a pagina onde po
 
 ![dentro de um artigo](https://user-images.githubusercontent.com/112964187/195947487-82c16dba-c200-49f1-bd0f-bc97988bfb18.jpg)
 
+## Simuladores
+
+Ao entrar na página de "Simuladores" o usuário poderá clicar no simulador desejado (serão três opções). Logo abaixo da barra com as opções, a simulação poderá ser realizada, e o resultado será mostrado no lado direto da tela. 
+
+![image](https://user-images.githubusercontent.com/113486028/195949868-b67f6172-0a03-4d11-bb65-878c370251b0.png)
+
+
+
 
 ![Exemplo de Wireframe](img/wireframe-example.png)
 

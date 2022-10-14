@@ -15,6 +15,8 @@
 
 ## Wireframes
 
+[wireframe ARTIGOS.pdf](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2022-2-e1-proj-web-t6-projeto-aplicacao-web-edu-fin/files/9789044/wireframe.ARTIGOS.pdf)
+
 ![Exemplo de Wireframe](img/wireframe-example.png)
 
 São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.

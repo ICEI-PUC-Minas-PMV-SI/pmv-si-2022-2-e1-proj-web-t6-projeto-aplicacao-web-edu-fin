@@ -15,7 +15,7 @@
 
 ## Wireframes
 
-[wireframe ARTIGOS.pdf](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2022-2-e1-proj-web-t6-projeto-aplicacao-web-edu-fin/files/9789044/wireframe.ARTIGOS.pdf)
+
 
 ![Exemplo de Wireframe](img/wireframe-example.png)
 

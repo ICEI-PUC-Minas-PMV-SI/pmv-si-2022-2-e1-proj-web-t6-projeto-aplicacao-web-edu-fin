@@ -13,7 +13,6 @@ O Projeto foi construído a partir da identificação do aumento da inadimplênc
 * Astor Franco de Sena Neto
 * Fabiana Santos Soares
 * Jussara Ribeiro de Souza
-* Krysthyan Moreira Florentino Toresani
 * Lívia Santos Morais
 * Paolla Alves Soares
 * Rafael Moreira Arantes de Castro

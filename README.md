@@ -14,8 +14,17 @@ O Projeto foi construído a partir da identificação do aumento da inadimplênc
 * Fabiana Santos Soares
 * Jussara Ribeiro de Souza
 * Lívia Santos Morais
-* Paolla Alves Soares
-* Rafael Moreira Arantes de Castro
+   <a href="https://github.com/liviamorais" title="Sophia Coelho" rel="nofollow"><img src="docs/img/usuario.PNG" alt="Lívia Santos Morais" data-canonical-src="https://github.com/liviamorais" width="50vw"/></a><br> 
+ <a href="https://github.com/sophiathais2352">
+      <h>Lívia Santos Morais<h>
+       </a> 
+
+ 
+  <a href="https://github.com/Paollaks" title="Sophia Coelho" rel="nofollow"><img src="docs/img/paolla.PNG" alt="Paolla Alves Soares" data-canonical-src="https://github.com/Paollaks" width="50vw"/></a><br> 
+ <a href="https://github.com/sophiathais2352">
+      <h>Paolla Alves Soares<h>
+       </a> 
+
  <a href="https://github.com/rafaeldecastro195" title="Sophia Coelho" rel="nofollow"><img src="docs/img/usuario.PNG" alt="Rafael Moreira Arantes de Castro" data-canonical-src="https://github.com/rafaeldecastro195" width="50vw"/></a><br> 
  <a href="https://github.com/sophiathais2352">
       <h>Rafael Moreira Arantes de Castro<h>

@@ -98,7 +98,7 @@ ul.dropdown-menu.dropdown-menu-end.show {
   color: #2b2d42!important;
 }
 #header {
-  background: #edf2f4;
+  background: #f1f1f3;
 }
 @keyframes backgroundTransition {
   0% {
@@ -177,6 +177,13 @@ div.card.h-100.shadow.border-0:hover {
 div.text-center {
   color: #2F3E46;
 }
+
+/* ARTIGOS PAGINA */
+
+img {
+  opacity: 0.175;
+}
+
 /* NOTICIAS */
 #news {
   background-color: #28c76f!important;
@@ -192,6 +199,7 @@ a.link-black.small {
 div.py-5 {
   border-radius: 15px;
 }
+
 /*FOOTER*/
 #footer {
   background-color: #2b2d42!important;

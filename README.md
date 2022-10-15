@@ -10,23 +10,36 @@ O Projeto foi construído a partir da identificação do aumento da inadimplênc
 
 ## Integrantes
 <div align="center">
-* Astor Franco de Sena Neto
-* Fabiana Santos Soares
-* Jussara Ribeiro de Souza
-* Lívia Santos Morais
-   <a href="https://github.com/liviamorais" title="Sophia Coelho" rel="nofollow"><img src="docs/img/usuario.PNG" alt="Lívia Santos Morais" data-canonical-src="https://github.com/liviamorais" width="50vw"/></a><br> 
- <a href="https://github.com/sophiathais2352">
+
+    <a https://github.com/Astorfranco" title="Astor Franco de Sena Neto" rel="nofollow"><img src="docs/img/usuario.PNG" alt="Astor Franco de Sena Neto" data-canonical-src="https://github.com/Astorfranco" width="50vw"/></a><br> 
+ <a href="https://github.com/Astorfranco">
+      <h>Astor Franco de Sena Neto<h>
+       </a>
+
+   
+   <a href="https://github.com/fabianass" title="Fabiana Santos Soares" rel="nofollow"><img src="docs/img/fabiana.PNG" alt="Fabiana Santos Soares" data-canonical-src="https://github.com/fabianass" width="50vw"/></a><br> 
+ <a href="https://github.com/fabianass">
+      <h>Fabiana Santos Soares<h>
+       </a>
+   
+<a href="https://github.com/Juh23" title="Jussara Ribeiro de Souza" rel="nofollow"><img src="docs/img/usuario.PNG" alt="Jussara Ribeiro de Souza" data-canonical-src="https://github.com/Juh23" width="50vw"/></a><br> 
+ <a href="https://github.com/Juh23">
+      <h>Jussara Ribeiro de Souza<h>
+       </a> 
+   
+   <a href="https://github.com/liviamorais" title="Lívia Santos" rel="nofollow"><img src="docs/img/usuario.PNG" alt="Lívia Santos Morais" data-canonical-src="https://github.com/liviamorais" width="50vw"/></a><br> 
+ <a href="https://github.com/liviamorais">
       <h>Lívia Santos Morais<h>
        </a> 
 
  
-  <a href="https://github.com/Paollaks" title="Sophia Coelho" rel="nofollow"><img src="docs/img/paolla.PNG" alt="Paolla Alves Soares" data-canonical-src="https://github.com/Paollaks" width="50vw"/></a><br> 
- <a href="https://github.com/sophiathais2352">
+  <a href="https://github.com/Paollaks" title="Paolla Alves" rel="nofollow"><img src="docs/img/paolla.PNG" alt="Paolla Alves Soares" data-canonical-src="https://github.com/Paollaks" width="50vw"/></a><br> 
+ <a href="https://github.com/Paollaks">
       <h>Paolla Alves Soares<h>
        </a> 
 
- <a href="https://github.com/rafaeldecastro195" title="Sophia Coelho" rel="nofollow"><img src="docs/img/usuario.PNG" alt="Rafael Moreira Arantes de Castro" data-canonical-src="https://github.com/rafaeldecastro195" width="50vw"/></a><br> 
- <a href="https://github.com/sophiathais2352">
+ <a href="https://github.com/rafaeldecastro195" title="Rafael Moreira" rel="nofollow"><img src="docs/img/usuario.PNG" alt="Rafael Moreira Arantes de Castro" data-canonical-src="https://github.com/rafaeldecastro195" width="50vw"/></a><br> 
+ <a href="https://github.com/rafaeldecastro19">
       <h>Rafael Moreira Arantes de Castro<h>
        </a>     
      

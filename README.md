@@ -52,9 +52,14 @@ O Projeto foi construído a partir da identificação do aumento da inadimplênc
         
         
 ## Orientador
-
-* Simone de Assis Alves da Silva
-
+  
+<div align="center">  
+  <a href="https://github.com/SimonePucEAD" title="Simone de Assis Alves da Silva" rel="nofollow"><img src="docs/img/usuario.PNG" alt="Simone de Assis Alves da Silva" data-canonical-src="https://github.com/SimonePucEAD" width="50vw"/></a><br> 
+ <a href="https://github.com/SimonePucEAD">
+      <h>Simone de Assis Alves da Silva<h>
+       </a>
+</div> 
+  
 # Planejamento
 
 | Etapa         | Atividades |

@@ -16,8 +16,15 @@ O Projeto foi construído a partir da identificação do aumento da inadimplênc
 * Lívia Santos Morais
 * Paolla Alves Soares
 * Rafael Moreira Arantes de Castro
-* <a href="https://github.com/sophiathais2352" title="Sophia Coelho" rel="nofollow"><img src="docs/img/sophia%20coelho.JPG" alt="Sophia Thaís Gibim Coelho" data-canonical-src="https://github.com/sophiathais2352" width="100vw"/></a><br>
-
+<div align="center">
+* <a href="https://github.com/sophiathais2352" title="Sophia Coelho" rel="nofollow"><img src="docs/img/sophia.PNG" alt="Sophia Thaís Gibim Coelho" data-canonical-src="https://github.com/sophiathais2352" width="50vw"/></a><br> 
+<a href="https://github.com/sophiathais2352">
+      <h>Sophia Thaís Gibim Coelho<h>
+        </a>
+</div>        
+       
+        
+        
 ## Orientador
 
 * Simone de Assis Alves da Silva

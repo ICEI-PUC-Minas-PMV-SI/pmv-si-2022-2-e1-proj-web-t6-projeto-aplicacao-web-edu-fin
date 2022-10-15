@@ -9,18 +9,22 @@
 O Projeto foi construído a partir da identificação do aumento da inadimplência no Brasil, fator cada vez mais preocupante dadas as condições inseguras em que o descontrole financeiro possa levar o cidadão. Como forma de orientar e aumentar a visibilidade e conhecimento sobre o assunto para o máximo de pessoas possíveis, vamos disponibilizar de forma totalmente gratuita e online uma plataforma com ferramentas para que o cidadão consiga planejar seus gastos, além de visualizar os valores reais que são pagos ao fim de um financiamento ou empréstimo, dentre outras operações financeiras.
 
 ## Integrantes
-
+<div align="center">
 * Astor Franco de Sena Neto
 * Fabiana Santos Soares
 * Jussara Ribeiro de Souza
 * Lívia Santos Morais
 * Paolla Alves Soares
 * Rafael Moreira Arantes de Castro
-<div align="center">
-* <a href="https://github.com/sophiathais2352" title="Sophia Coelho" rel="nofollow"><img src="docs/img/sophia.PNG" alt="Sophia Thaís Gibim Coelho" data-canonical-src="https://github.com/sophiathais2352" width="50vw"/></a><br> 
-<a href="https://github.com/sophiathais2352">
+ <a href="https://github.com/rafaeldecastro195" title="Sophia Coelho" rel="nofollow"><img src="docs/img/usuario.PNG" alt="Rafael Moreira Arantes de Castro" data-canonical-src="https://github.com/rafaeldecastro195" width="50vw"/></a><br> 
+ <a href="https://github.com/sophiathais2352">
+      <h>Rafael Moreira Arantes de Castro<h>
+       </a>     
+     
+ <a href="https://github.com/sophiathais2352" title="Sophia Coelho" rel="nofollow"><img src="docs/img/sophia.PNG" alt="Sophia Thaís Gibim Coelho" data-canonical-src="https://github.com/sophiathais2352" width="50vw"/></a><br> 
+ <a href="https://github.com/sophiathais2352">
       <h>Sophia Thaís Gibim Coelho<h>
-        </a>
+       </a>
 </div>        
        
         

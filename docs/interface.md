@@ -47,7 +47,7 @@ Escolhendo e clicando em um artigo, o usuário será direcinado a pagina onde po
 
 ## FAQ
 
-![WhatsApp Image 2022-10-15 at 11 46 0faq1](https://user-images.githubusercontent.com/112964187/195993588-7da7c206-86ae-41a3-bebc-2ba02a9de43c.jpeg)
+![FAQ](https://user-images.githubusercontent.com/113394058/196058363-946122b3-ec27-4741-ad9c-ddf50064017b.jpg)
 
 
 São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.

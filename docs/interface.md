@@ -3,7 +3,8 @@
 
 ## User Flow
 
-![User Flow Template (2)](https://user-images.githubusercontent.com/113143021/195746138-ad7f709a-8b52-480d-bc9f-e1daf9dbbc4a.jpg)
+![WhatsApp Image 2022-10-16 at 18 30 00](https://user-images.githubusercontent.com/112964187/196069323-ff565509-e137-4406-95a4-602aa67d6d3b.jpeg)
+
 
 
 
@@ -42,8 +43,6 @@ Ao entrar na página de "Artigos" o usuário terá acesso a variados botões, ca
 Escolhendo e clicando em um artigo, o usuário será direcinado a pagina onde poderá ler todo conteúdo do artigo e ainda deixar e ler comentarios no final da página. Ainda nessa página conterá uma barra de navegação rápida com links de acesso ao forum, SPC/Serasa, entre outros.
 
 ![dentro de um artigo](https://user-images.githubusercontent.com/112964187/195947487-82c16dba-c200-49f1-bd0f-bc97988bfb18.jpg)
-
-## Notícias
 
 ## FAQ
 

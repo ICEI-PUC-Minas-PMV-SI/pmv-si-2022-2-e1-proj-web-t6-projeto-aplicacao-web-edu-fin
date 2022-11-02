@@ -1,0 +1,145 @@
+/* NAVBAR */
+.navbar {
+    background-color: #2b2d42;
+  }
+  a.navbar-brand {
+    font: 38px Mulish, sans-serif;
+    color: #edf2f4!important;
+  }
+  .navbar-dark navbar-brand {
+    font: 48px Mulish, sans-serif;
+  }
+  .navbar-dark .navbar-nav .nav-link {
+    color: #edf2f4!important;
+    font: 14px Mulish, sans-serif !important;
+    text-transform: capitalize;
+  }
+  
+  ul.dropdown-menu.dropdown-menu-end.show {
+    color: #f1f1f3;
+    border: solid 1px #2f3e46;
+  }
+  /* HEADER */
+#header_title {
+    color: #2b2d42!important;
+  }
+  #header {
+    background: #ffffff;
+    height: 200px;
+  }
+ 
+  /*ARTIGO*/
+
+  #artigo {
+    width: 76%;
+    float: left;
+    padding-left: 155px;
+    padding-right: 55px;
+    background-color: rgb(255, 255, 255);
+   
+    
+  }
+  .imagemartigo {
+    width: 900px;
+    height: 300px;
+
+  }
+  .titulo2 {
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    width: 95%;
+    padding-top: 25px;
+  }
+
+ /* NAVEGAÇÂO RÀPIDA */
+
+ #navrapida {
+  width: 13%;
+  float:left ;
+  position: fixed;
+  background-color: #ffffff;
+  margin-left: 30px;
+  
+}
+#navrapida a {
+  color: #2f3e46;
+}
+#navrapida a:hover{
+  color: #28C76F;
+}
+.fixed {
+  float:left
+}
+
+.titulonr {
+  font-size: large;
+  background-color: #28C76F;
+  text-align: center;
+  color: white;
+  border-radius: 5px;
+
+}
+
+/* COMENTARIOS */
+.comentarios {
+  padding-left: 55px;
+  padding-top: 10px;
+  padding-right: 55px;
+  padding-bottom: 10px;
+  background-color: #28C76F;
+  margin-left: 155px;
+  margin-right: 24%;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  border-radius: 20px;
+  color: white;
+}
+.pessoas {
+  background-color: #ffffff;
+  padding-left: 155px;
+  padding-right: 24%;
+}
+#commenty {
+  border-color: #28C76F;
+  border-radius: 6px;
+}
+.nome, .email {
+  border-radius: 6px;
+  border-color:#28C76F;
+  
+}
+#btn-comentario {
+  position: relative;
+  float: right;
+  border-radius: 5px;
+  background-color: white;
+  border-color: #28C76F;
+  margin-top: 6px;
+}
+.nomepessoa {
+  font-size:large;
+}
+
+.comment {
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-left: 155px;
+  margin-right: 360px;
+  background-color: #f1f1f3;
+  border-radius: 15px;
+}
+
+
+  /*FOOTER*/
+#footer {
+    background-color: #2b2d42!important;
+  }
+
+  div.small.m-0 {
+    color: #f1f1f3;
+  }
+  a.link-black.small {
+    color: #f1f1f3!important;
+  }
+  

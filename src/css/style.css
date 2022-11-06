@@ -67,6 +67,7 @@ section#features.py-5 {
 }
 section.py-5 {
   padding-top: 2rem!important;
+  overflow-x: hidden;
   
 }
 div.container.px-5.my-5 {
@@ -208,7 +209,6 @@ div.py-5 {
 #footer {
   background-color: #2b2d42!important;
 }
-
 
 
 

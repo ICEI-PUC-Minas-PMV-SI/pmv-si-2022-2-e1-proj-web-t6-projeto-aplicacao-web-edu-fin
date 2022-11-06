@@ -42,7 +42,7 @@
   .imagemartigo {
     width: 900px;
     height: 300px;
-
+    border-radius: 20px;
   }
   .titulo2 {
     font-size: 30px;

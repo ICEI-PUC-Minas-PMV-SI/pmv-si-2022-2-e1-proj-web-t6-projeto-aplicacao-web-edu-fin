@@ -1,5 +1,5 @@
 
-//pegar url
+//pega url
 function apiGet(url){
     let request = new XMLHttpRequest()
     request.open("GET", url, false)

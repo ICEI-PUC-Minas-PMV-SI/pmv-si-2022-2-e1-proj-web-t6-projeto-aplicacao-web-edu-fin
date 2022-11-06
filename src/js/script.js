@@ -8,11 +8,10 @@ function apiGet(url){
 }
 //executa os metodos criados
 function main(){
-    //pega dados da api
+    //pega api
     let data = apiGet("https://economia.awesomeapi.com.br/last/USD-BRL,EUR-BRL,BTC-BRL");
-    //converte dados para json
+    //converte para json
     let dados = JSON.parse(data);
-    // console.log(dados);
     let a = returnHTLM(dados);
 }
 function returnHTLM(dados){

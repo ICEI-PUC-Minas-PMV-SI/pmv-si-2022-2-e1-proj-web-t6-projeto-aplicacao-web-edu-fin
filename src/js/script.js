@@ -6,7 +6,7 @@ function apiGet(url){
     request.send()
     return request.responseText
 }
-//executa os metodos criados
+//executa os metodos
 function main(){
     //pega api
     let data = apiGet("https://economia.awesomeapi.com.br/last/USD-BRL,EUR-BRL,BTC-BRL");

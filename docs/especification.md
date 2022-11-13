@@ -34,12 +34,10 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-002| LINKS com endereço WEB sobre Educação Financeira   | ALTA | |
 |RF-003| Função de quanto poupar mensalmente para juntar a quantia estipulada pelo usario no tempo desejado  | ALTA | |
 |RF-004| Diagrama destacando qual deve ser a porcentagem de gastos mensais brutos e lazer de acordo com o salario recebido  | Média | 
-|RF-005| Cotação das principais moedas atualizadas  | Média | |
+|RF-005| Cotação das principais moedas atualizadas  | ALTA | |
 |RF-006| Indicação de Canais sobre investimento | Média | |
-|RF-007| Possibilidade de criação de usuário com senha | Média| |
-|RF-008| Mecanismo de pesquisa por palavras chave | ALTA| |
-|RF-009| Fórum de dúvidas para usuários interagirem e se ajudarem | Média| |
-|RF-010| Dicionário com os principais termos usados na educação financeira | Média| |
+|RF-007| Fórum de dúvidas para usuários interagirem e se ajudarem | ALTA| |
+|RF-008| Dicionário com os principais termos usados na educação financeira | Baixa| |
 
 
 ### Requisitos não Funcionais

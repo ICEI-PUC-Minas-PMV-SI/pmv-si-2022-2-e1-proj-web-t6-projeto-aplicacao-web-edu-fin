@@ -2,7 +2,13 @@
 
 ## 1) Página Inicial 
 
-- Funcionalidades | RF - 002, RF - 005, RF - 009
+- Funcionalidades 
+  |ID    | Descrição do Requisito  |
+  |------|-----------------------------------------|
+  |RF-002| LINKS com endereço WEB sobre Educação Financeira   | 
+  |RF-005| Cotação das principais moedas atualizadas  |
+  |RF-009| Artigos sobre a temática |
+  
 - Código da Página se contra armazenada no arquivo: `(src/home.html)`
 
 ![home](https://user-images.githubusercontent.com/113148420/201544891-d664b34e-3e7e-4271-babc-9e090b1cda06.png)

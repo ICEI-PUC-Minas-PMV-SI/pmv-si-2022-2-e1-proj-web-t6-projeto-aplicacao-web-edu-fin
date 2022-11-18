@@ -55,18 +55,21 @@
                         <form>
                             <div class="input-group mb-4 m-auto">
                                 <span class="input-group-text">$</span>
-                                <input type="text" class="form-control" placeholder="Valor do seu salário">
+                                <input type="text" class="form-control" placeholder="Capital atual" name="montante" id="montante">
                             </div>
                             <div class="input-group mb-4 m-auto" >
-                                <input type="text" class="form-control" placeholder="Porcentagem aplicada">
+                                <input type="text" class="form-control" placeholder="Porcentagem aplicada" name="porcentagem" id="porcentagem">
                                 <span class="input-group-text">%</span>
                               </div>
                               <div class="input-group mb-4 m-auto" >
-                                <input type="text" class="form-control" placeholder="Número de meses" >
+                                <input type="text" class="form-control" placeholder="Número de meses" name="meses" id="meses">
                                 <span class="input-group-text">meses</span>
                               </div>
-                              <h2 class="text-black text-center mb-3 mt-3"></h2>
+                              <div class="input-group mb-4 m-auto">
+                                <input class="input-group-text" type="submit" value="Calcular">  
+                              </div>
                         </form>
+                        <div id="calculo" class="text-center text-black"></div>
                     </div>
                 </div>
             </div>
@@ -81,20 +84,23 @@
                             Utilize nosso simulador e calcule seu empréstimo.
                         </p>
                         <form>
-                          <div class="input-group mb-3 w-25 m-auto">
+                          <div class="input-group mb-4 m-auto">
                             <span class="input-group-text">$</span>
-                            <input type="text" class="form-control" placeholder="Valor do empréstimo">
+                            <input type="text" class="form-control" placeholder="Capital atual" name="valorEmprestimo" id="valorEmprestimo">
                           </div>
-                          <div class="input-group mb-3 w-25 m-auto">
-                            <input type="text" class="form-control" placeholder="Juros anual">
+                          <div class="input-group mb-4 m-auto">
+                            <input type="text" class="form-control" placeholder="Juros" name="juros" id="juros" >
                             <span class="input-group-text">%</span>
                           </div>
-                          <div class="input-group mb-3 w-25 m-auto">
-                            <input type="text" class="form-control" placeholder="Prazo em anos">
-                            <span class="input-group-text">anos</span>
+                          <div class="input-group mb-4 m-auto">
+                            <input type="text" class="form-control" placeholder="Prazo em meses" name="duracaoMeses" id="duracaoMeses" >
+                            <span class="input-group-text">meses</span>
                           </div>
-                          <h2 class="text-black mb-3 mt-3 text-center"></h2>
+                          <div class="input-group mb-4 m-auto">
+                            <input class="input-group-text" type="submit" value="Calcular">  
+                          </div>
                         </form>
+                        <div id="resultadoEmprestimo" class="text-center"></div>
                     </div>
                 </div>
             </div>
@@ -109,20 +115,23 @@
                             Simule seu financiamento.
                         </p>
                         <form>
-                          <div class="input-group mb-3 w-25 m-auto" >
+                          <div class="input-group mb-4 m-auto" >
                               <span class="input-group-text">$</span>
-                              <input type="text" class="form-control" placeholder="Valor Financiado">
+                              <input type="text" class="form-control" placeholder="Capital Aplicado" id="capitalAplicado" name="capitalAplicado">
                             </div>
-                            <div class="input-group mb-3 w-25 m-auto">
-                                <input type="text" class="form-control" placeholder="Taxa de juros">
+                            <div class="input-group mb-4 m-auto">
+                                <input type="text" class="form-control" placeholder="Taxa de juros" id="jurosComposto" name="jurosComposto">
                                 <span class="input-group-text">%</span>
                             </div>
-                          <div class="input-group mb-3 w-25 m-auto">
-                            <input type="number" class="form-control" placeholder="Em quantos anos">
-                            <span class="input-group-text">anos</span>
+                          <div class="input-group mb-4 m-auto">
+                            <input type="text" class="form-control" placeholder="Em quantos meses" id="tempo" name="tempo">
+                            <span class="input-group-text">meses</span>
                           </div>
-                            <h2 class="text-black mb-3 mt-3"></h2>
+                          <div class="input-group mb-4 m-auto">
+                            <input class="input-group-text" type="submit" value="Calcular">  
+                          </div>
                       </form>
+                      <div id="resultadoFinanciado" class="text-center"></div>
                     </div>
                 </div>
             </div>
@@ -151,6 +160,9 @@
 
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js"
   integrity="sha384-7+zCNj/IqJ95wo16oMtfsKbZ9ccEh31eOz1HGyDuCQ6wgnyJNSYdrPa03rtR1zdB" crossorigin="anonymous"></script>
+    <script src="reserva.js"></script>
+    <script src="emprestimo.js"></script>
+    <script src="financiamento.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js"
   integrity="sha384-QJHtvGhmr9XOIpI6YVutG+2QOK9T+ZnN4kzFN1RtK3zEFEIsxhlmWl5/YESvpZ13" crossorigin="anonymous"></script>
 </body>

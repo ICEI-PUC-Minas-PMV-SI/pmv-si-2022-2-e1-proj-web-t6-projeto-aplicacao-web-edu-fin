@@ -15,6 +15,16 @@
 
 
 ## 2) Páginas dos Artigos
+
+- Funcionalidades 
+  |ID    | Descrição do Requisito  |
+  |------|-----------------------------------------|
+  |RF-002| LINKS com endereço WEB sobre Educação Financeira   |
+  |RF-007| Fórum de dúvidas para usuários interagirem e se ajudarem | 
+  |RF-009| Artigos sobre a temática |
+  
+ - Códigos das Páginas se contrm armazenadas nos arquivos: `(src/artigo1.html)`, `(src/artigo2.html)`, `(src/artigo3.html)`
+  
 ### Artigo Quitar Dívidas 
 ![artigo1](https://user-images.githubusercontent.com/113148420/201544924-e043a9e2-bb6f-4b5f-8c39-8ed21f144a73.png)
 ### Artigo Investimentos
@@ -24,6 +34,16 @@
 
 
 ## 3) Página do Simulador
+
+- Funcionalidades 
+  |ID    | Descrição do Requisito  |
+  |------|-----------------------------------------|
+  |RF-001| Valor final ao pagar referente a um financiamento |
+  |RF-003| Função de quanto poupar mensalmente para juntar a quantia estipulada pelo usuario no tempo desejado  |
+  |RF-004| Diagrama destacando qual deve ser a porcentagem de gastos mensais brutos e lazer de acordo com o salario recebido  |
+  
+ - Código da Página se contra armazenada no arquivo: `(src/simulador.html)`
+
 ### Simulador de Reservas 
 ![simuladorreserva](https://user-images.githubusercontent.com/113148420/201545056-ab60e2f1-6bfe-446b-a53f-f5a09611ad81.png)
 ### Simulador de Empréstimos
@@ -33,10 +53,29 @@
 
 
 ## 4) Página do FAQ
+
+- Funcionalidades 
+  |ID    | Descrição do Requisito  |
+  |------|-----------------------------------------|
+  |RF-002| LINKS com endereço WEB sobre Educação Financeira   |
+  |RF-008| FAQ com as principais dúvidas sobre educação financeira |
+  
+ - Código da Página se contra armazenada no arquivo: `(src/faq.html)`
+  
+
 ![faq](https://user-images.githubusercontent.com/113148420/201545103-cc158db9-e03f-4cc3-88d3-c9336dbfe138.png)
 
 
 ## 5) Páginas dos Conteúdos
+
+- Funcionalidades 
+  |ID    | Descrição do Requisito  |
+  |------|-----------------------------------------|
+  |RF-002| LINKS com endereço WEB sobre Educação Financeira   |
+  |RF-006| Indicação de conteúdos sobre investimento |
+  
+ - Códigos das Páginas se contrm armazenadas nos arquivos: `(src/livros.html)`, `(src/podcasts.html)`, `(src/videos.html)`
+
 ### Livros
 ![livros](https://user-images.githubusercontent.com/113148420/201545151-72150f80-404c-4344-9f8b-3f72698cab4f.png)
 ### Podcast

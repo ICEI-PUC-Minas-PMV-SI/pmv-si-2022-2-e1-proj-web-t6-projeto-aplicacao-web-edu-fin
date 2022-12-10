@@ -16,7 +16,7 @@ Relatório com as evidências dos testes de software realizados no sistema pela 
 
 ## Avaliação
 
-Discorra sobre os resultados do teste. Ressaltando pontos fortes e fracos identificados na solução. Comente como o grupo pretende atacar esses pontos nas próximas iterações. Apresente as falhas detectadas e as melhorias geradas a partir dos resultados obtidos nos testes.
+Os testes no geral foram satisfatórios. O ponto forte indicado pelos testadores foi a integração com outros sites através de links, e a qualidade da curadoria dos conteúdos de maneira geral. Foram identificados como pontos fracos a linguagem pouco clara dos simuladores, em especial o de capitalização. Não houveram falhas ou erros no momento de utilização do site, a interface foi bastante responsiva e fluida
 
 > **Links Úteis**:
 > - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
